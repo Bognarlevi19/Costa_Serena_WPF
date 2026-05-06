@@ -41,22 +41,6 @@
                                Margin="0,8,0,0"
                                TextWrapping="Wrap"/>
                 </StackPanel>
-
-                <Border Grid.Column="1"
-                        Background="#26FFFFFF"
-                        CornerRadius="12"
-                        Padding="16,10"
-                        VerticalAlignment="Center">
-                    <StackPanel>
-                        <TextBlock Text="Munkatípus"
-                                   Foreground="#FFD6E7F3"
-                                   FontSize="12"/>
-                        <TextBlock Text="MVVM + WPF + LiveCharts"
-                                   Foreground="White"
-                                   FontSize="18"
-                                   FontWeight="SemiBold"/>
-                    </StackPanel>
-                </Border>
             </Grid>
         </Border>
 
